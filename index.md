@@ -5,7 +5,9 @@ title: Zachary Feldcamp
 
 # Zachary Feldcamp
 
-![Portrait of Zachary Feldcamp](images/portrait.png)
+<img src="images/portrait.jpg"
+     alt="Portrait of Zachary Feldcamp"
+     style="width:260px; border-radius:6px;">
 
 PhD Candidate in Linguistics  
 Massachusetts Institute of Technology
