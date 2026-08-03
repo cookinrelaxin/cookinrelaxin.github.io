@@ -5,7 +5,7 @@ title: Zachary Feldcamp
 
 # Zachary Feldcamp
 
-<img src="images/portrait.jpg"
+<img src="images/portrait.png"
      alt="Portrait of Zachary Feldcamp"
      style="width:260px; border-radius:6px;">
 
