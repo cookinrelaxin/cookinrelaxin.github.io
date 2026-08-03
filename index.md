@@ -1,19 +1,13 @@
 ---
 layout: default
-title: Research
+title: Zachary Feldcamp
 ---
 
-# Research
+# Zachary Feldcamp
 
-## Locative Inversion
+PhD Candidate in Linguistics  
+Massachusetts Institute of Technology
 
-My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality.
+I am a syntactician working on locality, movement, linearization, and inversion phenomena. My current research focuses on locative inversion and related constructions.
 
-- [Paper on LingBuzz](https://lingbuzz.net/lingbuzz/010192)
-- Venue: Submitted for publication
-
-## Fragment Subjects
-
-This project develops an analysis of fragment subjects involving nominalized verbal structures, movement, and ellipsis.
-
-[Back to home](./)
+[CV](cv.pdf) · [Research](research.md) · [Teaching](teaching.md) · [Email me](mailto:lastname AT mit DOT edu)
