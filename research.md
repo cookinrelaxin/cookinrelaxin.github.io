@@ -105,7 +105,4 @@ This paper is an initial attempt at developing an explanatory theory of syntacti
 
 - Feldcamp, Z. (2022). Linkers and the licensing of dependents. Toronto Working Papers in Linguistics. Retrieved from https://twpl.library.utoronto.ca/index.php/twpl/article/view/41005 [Paper on TWPL](https://twpl.library.utoronto.ca/index.php/twpl/article/view/41005)
 
-## Syntax of Latin & Ancient Greek
-- [Paper on LingBuzz](https://ling.auf.net/lingbuzz/006021)
-
 [Back to home](./)
