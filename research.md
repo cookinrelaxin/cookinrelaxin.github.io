@@ -7,9 +7,34 @@ title: Research
 
 ## What gets to move?
 
+The subject of a transitive verb in the active voice, as in 1a, typically denotes the do-er or "Agent" of the activity described by the verb. 
+When a verb is made passive, another phrase becomes the subject. In 1b we see that the previous object, denoting the thing placed, "moves" to the subject position.
+Interestingly, a prepositional phrase (PP) may become the subject, as shown in 1c; this latter construction is called "Locative Inversion".
+
     1a. Mark placed a bowl of pasta on the table.
     1b. A bowl of pasta was placed on the table.
     1c. On the table was placed a bowl of pasta.
+
+The apparent optionality in what becomes the subject when the verb passive raises several deep questions about syntax. For instance, is syntactic movement deterministic? 
+That is, if more than one possible mover exists, is there a rule or procedure that determines which gets to move?
+A prominent hypothesis says yes: whichever phrase is structurally *higher* within the original verb phrase must move to the subject position.
+This *could* explain the optionality between 1b and 1c, if there is optionality in whether the object or the PP is structurally higher within the verb phrase.
+
+Contrasts like that in 2 suggest that something else is going on. 
+We see in 2a that the object may ordinarily precede preposition-like verb "particles" like *down*. 
+Interestingly, when Locative Inversion occurs, the object must *follow* the particle—compare 2c with 2c'.
+
+    2a. Mark put a bowl of pasta down on the table.
+    2b. A bowl of pasta was put down on the table.
+    2c. *On the table was put a bowl of pasta down.
+    2c'. On the table was put down a bowl of pasta.
+
+The paradigm in 3 shows that the object must occur at the right edge of the sentence even when 
+
+    3a. Professor Kunen proved the Twin Prime Conjecture false in the lecture.
+    3b. The Twin Prime Conjecture was proved false in the lecture.
+    3c. *In the lecture was proved the Twin Prime Conjecture false.
+    3c. ?In the lecture was proved false the Twin Prime Conjecture.
 
 My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. 
 A central question is whether the structural height of different potential movers to a given landing site determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. 
