@@ -21,7 +21,7 @@ An earlier version of this paper was presented as a poster at WCCFL 42.
 - Feldcamp, Z. (2025). Precedence-Sensitive A-Movement in Locative Inversion. Proceedings of the 42nd West Coast Conference on Formal Linguistics, ed. Shweta Akolkar et al., 130-137. Somerville, MA: Cascadilla Proceedings Project.
   [Paper on LingBuzz](https://ling.auf.net/lingbuzz/008359)
   
-## Syntax-Pragmatics interface
+## How grammar shapes what we imply
 
 We understand the meaning of what someone says by considering what they *could* have said, but *didn't*. 
 For instance, if we hear somebody utter sentence 1, we understand them to mean that they have *exactly* two kids, even though 1 would strictly speaking be true even if the speaker has, say, three kids.
@@ -43,7 +43,7 @@ In terms of alternatives, the speaker could have replaced "is lying" in 2b with 
 
 The pair in 3 is different: it has an "inverted" word-order, in which the predicate comes first and the subject comes last. 
 It is an independent syntactic fact that inversion requires a form of "be". Sentence 3a is then ungrammatical, but 3b is grammatical, because it has a form of "be" in the third-person present-tense "is".
-Interestingly, 3b does *not* sound odd in the same way that 1b does, even though all of the words are the same. Sentence 3b could be uttered as the introduction to a documentary about NOLA, for instance.
+Interestingly, 3b does *not* sound odd in the same way that 2b does, even though all of the words are the same. Sentence 3b could be uttered as the introduction to a documentary about NOLA, for instance.
 
     3a. *Lies at the mouth of the Mississippi River New Orleans.
 
