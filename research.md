@@ -29,15 +29,26 @@ What you are doing is implicitly negating every stronger alternative utterance o
 Earlier work has argued that contents of the lexicon restricts such pragmatic reasoning over alternative utterances.
 The question that Ido and I ask is to what extent syntactic grammaticality does the same. We argue that it does: an alternative utterance formed from a sentence \[ ...  α ... \] by replacing some item α with some other β is only accessible to pragmatic reasoning if the new sentence is grammatical.
 Our argument is based on contrasts like that between examples 1 and 2, below.
+The sentence in 1a sounds fine while that in 1b is odd. The latter sentence seems to suggest that the position of NOLA might move at some point, contrary to our knowledge of the world.
+The pair in 2 involves an "inverted" word-order, in which the predicate comes first and the subject comes last. 
+An independent fact about the syntax of such constructions is that inversion requires a form of "be"; sentence 2a is then ungrammatical.
+In contrast, 2b has a form of "be" in the third-person present-tense form "is", and the sentence is grammatical. 
+Interestingly, 2b does *not* sound odd in the same way that 1b does, even though all of the words are the same. 
+The relevant difference seems to be in the grammaticality of their alternatives in the two cases.
+Sentence 1b sounds odd because the speaker could have replaced "is lying" with "lies"; the fact that they did not indicates that they do not believe the generic/habitual meaning of the bare present form "lies" to be the case: it is NOT the case that NOLA generally lies at the mouth of the Mississippi.
+This same pragmatic reasoning over alternatives is conceivably possible in the case of 2, as well. 
+The listener hearing 2b could compare it to the meaning obtained from the ungrammatical sentence in 2a.
+The fact that the lister does *not* do so indicates that syntactic well-formedness restricts the availability of utterances for pragmatic reasoning.
 
 1a. New Orleans lies at the mouth of the Mississippi River.
+
 1b. #New Orleans is lying at the mouth of the Mississippi River.
 
 2a. *Lies at the mouth of the Mississippi River New Orleans.
 2b. Lying at the mouth of the Mississippi River is (the great city of) New Orleans.
 
-- [Paper on LingBuzz](https://ling.auf.net/lingbuzz/009371)
-  Feldcamp, Z. & Benbaji-Elhadad I. A well-formedness condition on alternative generation. Proceedings of WCCFL 43. 
+- Feldcamp, Z. & Benbaji-Elhadad I. A well-formedness condition on alternative generation. Proceedings of WCCFL 43.
+[Paper on LingBuzz](https://ling.auf.net/lingbuzz/009371)
 
 ## Fragment Subjects (Ongoing)
 
