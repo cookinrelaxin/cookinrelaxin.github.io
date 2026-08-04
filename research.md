@@ -26,7 +26,7 @@ An earlier version of this paper was presented as a poster at WCCFL 42.
 We understand the meaning of what someone says by considering what they *could* have said, but *didn't*. 
 For instance, if we hear somebody utter sentence 1, we understand them to mean that they have *exactly* two kids, even though 1 would strictly speaking be true even if the speaker has, say, three kids.
 
-  1. I have two kids.
+    1. I have two kids.
    
 What we are doing (unconsciously) is negating every stronger alternative utterance of the form "I have n kids", since, if they had n > 2 kids, they would have said so.
 
@@ -37,17 +37,17 @@ Notice that the sentence in 2a sounds fine while the one in 2b is odd.
 Sentence 2b seems to suggest that the position of NOLA tends to move, contrary to our knowledge of the world. 
 In terms of alternatives, the speaker could have replaced "is lying" in 2b with "lies" to get 2a; the fact that they did not indicates that they do not believe the generic/habitual meaning of the bare present form "lies" to hold.
 
-  2a. New Orleans lies at the mouth of the Mississippi River.
+    2a. New Orleans lies at the mouth of the Mississippi River.
 
-  2b. #New Orleans is lying at the mouth of the Mississippi River.
+    2b. #New Orleans is lying at the mouth of the Mississippi River.
 
 The pair in 3 is different: it has an "inverted" word-order, in which the predicate comes first and the subject comes last. 
 It is an independent syntactic fact that inversion requires a form of "be". Sentence 3a is then ungrammatical, but 3b is grammatical, because it has a form of "be" in the third-person present-tense form "is".
 Interestingly, 3b does *not* sound odd in the same way that 1b does, even though all of the words are the same. 
 
-  3a. *Lies at the mouth of the Mississippi River New Orleans.
+    3a. *Lies at the mouth of the Mississippi River New Orleans.
 
-  3b. Lying at the mouth of the Mississippi River is (the great city of) New Orleans.
+    3b. Lying at the mouth of the Mississippi River is (the great city of) New Orleans.
 
 Ido and I suggest that the lack of oddness in 3b (as opposed to 2b) comes from the ungrammaticality of the alternative 3a.
 The listener hearing 3b could conceivably compare it to the meaning obtained from the ungrammatical sentence in 3a.
