@@ -28,7 +28,7 @@ For instance, if we hear somebody utter sentence 1, we understand them to mean t
 
     1. I have two kids.
    
-What we are doing (unconsciously) is negating every stronger alternative utterance of the form "I have n kids", since, if they had n > 2 kids, they would have said so.
+What we are doing (unconsciously) is negating every stronger alternative utterance of the form "I have *n* kids", since, if they had *n* > 2 kids, they would have said so.
 
 Ido and I ask whether syntactic grammaticality restricts this kind of pragmatic reasoning over alternative utterances. 
 We argue that it does, based on contrasts between the interpretation of progressive -ing verbs in sentences like 2b versus those in 3b.
