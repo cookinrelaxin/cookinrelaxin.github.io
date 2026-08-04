@@ -7,19 +7,20 @@ title: Research
 
 ## Locative Inversion
 
-My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality.
+My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. A central question is whether the structural height of different potential movers to a given landing site determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. In Feldcamp (2026), I argue that  the latter hypothesis is closer to the truth. The crucial data comes from locative inversion configurations in which the structurally higher of two potential movers is to the right of the structurally lower of the two. What is found is that the phrase on the right cannot move unless the phrase on the left first moves to the right of it. I develop and argue for a theory of locality that explains this generalization. 
 
 - [Paper on LingBuzz](https://lingbuzz.net/lingbuzz/010192)
+- Feldcamp, Z. (2026). Precedence-sensitive locality in English locative inversion. Submitted
 - Venue: Submitted for publication
+
+- Earlier proceedings paper.
+- Feldcamp, Z. (2025). Precedence-Sensitive A-Movement in Locative Inversion. Proceedings of the 42nd West Coast Conference on Formal Linguistics, ed. Shweta Akolkar et al., 130-137. Somerville, MA: Cascadilla Proceedings Project.
+- [Paper on LingBuzz](https://ling.auf.net/lingbuzz/008359)
 
 ## Linkers and the syntax of modification
 
 -[Paper on TWPL](https://twpl.library.utoronto.ca/index.php/twpl/article/view/41005)
 Feldcamp, Z. (2022). Linkers and the licensing of dependents. Toronto Working Papers in Linguistics. Retrieved from https://twpl.library.utoronto.ca/index.php/twpl/article/view/41005
-
-- Earlier proceedings paper.
-- Feldcamp, Z. (2025). Precedence-Sensitive A-Movement in Locative Inversion. Proceedings of the 42nd West Coast Conference on Formal Linguistics, ed. Shweta Akolkar et al., 130-137. Somerville, MA: Cascadilla Proceedings Project.
-- [Paper on LingBuzz](https://ling.auf.net/lingbuzz/008359)
   
 ## Syntax-Pragmatics interface
 - [Paper on LingBuzz](https://ling.auf.net/lingbuzz/009371)
