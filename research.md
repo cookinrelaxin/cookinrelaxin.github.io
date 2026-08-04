@@ -7,15 +7,19 @@ title: Research
 
 ## Locative Inversion
 
-My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. A central question is whether the structural height of different potential movers to a given landing site determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. In Feldcamp (2026), I argue that  the latter hypothesis is closer to the truth. The crucial data comes from locative inversion configurations in which the structurally higher of two potential movers is to the right of the structurally lower of the two. What I find is that the phrase on the right cannot move unless the phrase on the left first moves to the right of it. I develop and argue for a theory of locality that explains this generalization. 
+My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. 
+A central question is whether the structural height of different potential movers to a given landing site determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. 
+In Feldcamp (2026), I argue that  the latter hypothesis is closer to the truth. 
+The crucial data comes from locative inversion configurations in which the structurally higher of two potential movers is to the right of the structurally lower of the two. 
+What I find is that the phrase on the right cannot move unless the phrase on the left first moves to the right of it. 
+I develop and argue for a theory of locality that explains this generalization. 
 
-- [Paper on LingBuzz](https://lingbuzz.net/lingbuzz/010192)
-- Feldcamp, Z. (2026). Precedence-sensitive locality in English locative inversion. Submitted
-- Venue: Submitted for publication
+- Feldcamp, Z. (2026). Precedence-sensitive locality in English locative inversion. Submitted.
+  [Paper on LingBuzz](https://lingbuzz.net/lingbuzz/010192)
 
-- Earlier proceedings paper.
+An earlier version of this paper was presented as a poster at WCCFL 42. 
 - Feldcamp, Z. (2025). Precedence-Sensitive A-Movement in Locative Inversion. Proceedings of the 42nd West Coast Conference on Formal Linguistics, ed. Shweta Akolkar et al., 130-137. Somerville, MA: Cascadilla Proceedings Project.
-- [Paper on LingBuzz](https://ling.auf.net/lingbuzz/008359)
+  [Paper on LingBuzz](https://ling.auf.net/lingbuzz/008359)
 
 ## Linkers and the syntax of modification
 
