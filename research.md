@@ -5,7 +5,11 @@ title: Research
 
 # Research
 
-## What gets to be the subject?
+## What gets to move?
+
+    1a. Mark placed a bowl of pasta on the table.
+    1b. A bowl of pasta was placed on the table.
+    1c. On the table was placed a bowl of pasta.
 
 My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. 
 A central question is whether the structural height of different potential movers to a given landing site determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. 
