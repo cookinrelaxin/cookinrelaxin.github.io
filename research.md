@@ -33,7 +33,7 @@ What we are doing (unconsciously) is negating every stronger alternative utteran
 Ido and I ask whether syntactic grammaticality restricts this kind of pragmatic reasoning over alternative utterances. 
 We argue that it does, based on contrasts between the interpretation of progressive -ing verbs in sentences like 2b versus those in 3b.
 
-Notice, for instance, that the sentence in 1a sounds fine while the one in 2b is odd. 
+Notice that the sentence in 1a sounds fine while the one in 2b is odd. 
 Sentence 2b seems to suggest that the position of NOLA tends to move, contrary to our knowledge of the world. 
 Sentence 2b sounds odd because the speaker could have replaced "is lying" with "lies"; the fact that they did not indicates that they do not believe the generic/habitual meaning of the bare present form "lies" to be the case: it is NOT the case that NOLA generally lies at the mouth of the Mississippi.
 
