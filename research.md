@@ -28,8 +28,8 @@ Interestingly, when Locative Inversion occurs, the object must *follow* the part
     2c'. On the table was put down a bowl of pasta.
 
 My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. 
-A central question is whether the structural height of different potential movers to a given landing site determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. 
-In Feldcamp (2026), I argue that  the latter hypothesis is closer to the truth. 
+A central question is whether the structural height of different potential movers determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. 
+In Feldcamp (2026), I argue that the latter hypothesis is closer to the truth. 
 The crucial data comes from locative inversion configurations in which the structurally higher of two potential movers is to the right of the structurally lower of the two. 
 
 The paradigm in 3 is parallel to that in 2, but the PP starts out as a modifier of the verb "prove", higher than the object noun phrase in the embedded clause. Nonetheless, the NP must be pronounced at the right edge of the sentence, if PP is to move. What we find is that the phrase on the right cannot move unless the phrase on the left first moves to the right of it. 
