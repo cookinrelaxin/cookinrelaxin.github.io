@@ -31,7 +31,7 @@ For instance, if we hear somebody utter sentence 1, we understand them to mean t
 What we are doing (unconsciously) is negating every stronger alternative utterance of the form "I have n kids", since, if they had n > 2 kids, they would have said so.
 
 Ido and I ask whether syntactic grammaticality restricts this kind of pragmatic reasoning over alternative utterances. 
-We argue that it does: an alternative utterance formed from a sentence \[ ...  α ... \] by replacing some item α with some other β is only accessible to pragmatic reasoning if the new sentence is grammatical.
+We argue that it does, based on contrasts between the interpretation of progressive -ing verbs in sentences like 2b versus those in 3b.
 
 Notice, for instance, that the sentence in 1a sounds fine while the one in 2b is odd. 
 Sentence 2b seems to suggest that the position of NOLA tends to move, contrary to our knowledge of the world. 
