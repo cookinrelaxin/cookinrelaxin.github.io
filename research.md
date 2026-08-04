@@ -37,7 +37,7 @@ I develop and argue for a theory of locality that explains this generalization.
 
     3a. Professor Kunen proved two well-known conjectures false in the lecture.
     3b. Two well-known conjectures were proved false in the lecture.
-    3c. *In the lecture was proved two well-known conjectures false.
+    3c. *In the lecture were proved two well-known conjectures false.
     3c. In the lecture were proved false two well-known conjectures.
 
 - Feldcamp, Z. (2026). Precedence-sensitive locality in English locative inversion. Submitted.
