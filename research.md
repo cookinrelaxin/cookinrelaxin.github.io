@@ -92,7 +92,7 @@ This project develops an analysis of fragment subjects involving nominalized ver
 
 ## Linkers and the syntax of modification
 
-Work on noun phrase syntax across languages has often focused on the role of nominal linkers—functional elements that appear to license phrases as modifiers, arguments, or other dependents of a head noun. The Japanese morpheme -na, for instance, obligatorily follows a certain class of adjectives when they are used as adnominal modifiers 1a, but does not occur otherwise 1b
+Work on noun phrase syntax across languages has often focused on the role of nominal linkers—functional elements that appear to license phrases as modifiers, arguments, or other dependents of a head noun. The Japanese morpheme -na, for instance, obligatorily follows a certain class of adjectives when they are used as adnominal modifiers (1a), but does not occur otherwise (1b).
 
         1a. kirei    *(na)  ie    (Japanese)
             clean    LNK    house
