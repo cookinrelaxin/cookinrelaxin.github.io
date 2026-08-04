@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-## Locative Inversion
+## What gets to be the subject?
 
 My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. 
 A central question is whether the structural height of different potential movers to a given landing site determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. 
