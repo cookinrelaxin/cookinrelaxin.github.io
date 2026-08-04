@@ -94,11 +94,11 @@ This project develops an analysis of fragment subjects involving nominalized ver
 
 Work on noun phrase syntax across languages has often focused on the role of nominal linkers—functional elements that appear to license phrases as modifiers, arguments, or other dependents of a head noun. The Japanese morpheme -na, for instance, obligatorily follows a certain class of adjectives when they are used as adnominal modifiers 1a, but does not occur otherwise 1b
 
-        1a. kirei    *(na)    ie (Japanese)
+        1a. kirei    *(na)  ie    (Japanese)
             clean    LNK    house
             'a clean house'
-        2a. kono    ie    wa    kirei    (*na)    desu
-            this    house    TOP    clean    LNK    be
+        2a. kono    ie        wa    kirei    (*na)    desu
+            this    house     TOP   clean    LNK      be
             'This house is clean.'
 
 This paper is an initial attempt at developing an explanatory theory of syntactically optional, or “weak” dependency, viewed primarily through the lens of its functional structure in linker constructions. The central idea is that modification and other weak dependent constructions involve the same structure-building operations through which arguments are integrated into the clause, namely the application of set Merge and feature-checking local to a selecting head.
