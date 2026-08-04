@@ -41,7 +41,7 @@ In terms of alternatives, the speaker could have replaced "is lying" in 2b with 
 
 2b. #New Orleans is lying at the mouth of the Mississippi River.
 
-Next consider the pair in 3, which involves an "inverted" word-order, in which the predicate comes first and the subject comes last. 
+The pair in 3 is different: it has an "inverted" word-order, in which the predicate comes first and the subject comes last. 
 It is an independent syntactic fact that inversion requires a form of "be". Sentence 3a is then ungrammatical, but 3b is grammatical, because it has a form of "be" in the third-person present-tense form "is".
 Interestingly, 3b does *not* sound odd in the same way that 1b does, even though all of the words are the same. 
 The relevant difference seems to be in the grammaticality of their alternatives in the two cases.
