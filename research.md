@@ -30,7 +30,7 @@ For instance, if we hear somebody utter sentence 1, we understand them to mean t
    
 What we are doing (unconsciously) is negating every stronger alternative utterance of the form "I have *n* kids", since, if they had *n* > 2 kids, they would have said so.
 
-Ido and I ask whether syntactic grammaticality restricts this kind of pragmatic reasoning over alternative utterances. 
+Ido and I ask whether *syntactic well-formedness* restricts this kind of pragmatic reasoning over alternative utterances. 
 We argue that it does, based on contrasts between the interpretation of progressive -ing verbs in sentences like 2b versus those in 3b.
 
 Notice that the sentence in 2a sounds fine while the one in 2b is odd. 
@@ -52,6 +52,10 @@ Interestingly, 3b does *not* sound odd in the same way that 1b does, even though
 Ido and I suggest that the lack of oddness in 3b (as opposed to 2b) comes from the ungrammaticality of the alternative 3a.
 The listener hearing 3b could conceivably compare it to the meaning obtained from the ungrammatical sentence in 3a.
 The fact that the listener does *not* do so indicates that syntactic well-formedness restricts the availability of utterances for pragmatic reasoning.
+
+This gets at deep questions about the nature of pragmatics. 
+What kinds of objects are alternatives? Are they utterances, as suggested above? Or are they syntactic objects? Or perhaps logical representations, or might they even be concepts?
+If we are correct, then alternatives are syntactic.
 
 - Feldcamp, Z. & Benbaji-Elhadad I. A well-formedness condition on alternative generation. Proceedings of WCCFL 43.
 [Paper on LingBuzz](https://ling.auf.net/lingbuzz/009371)
