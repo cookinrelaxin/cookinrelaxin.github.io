@@ -44,14 +44,14 @@ In terms of alternatives, the speaker could have replaced "is lying" in 2b with 
 The pair in 3 is different: it has an "inverted" word-order, in which the predicate comes first and the subject comes last. 
 It is an independent syntactic fact that inversion requires a form of "be". Sentence 3a is then ungrammatical, but 3b is grammatical, because it has a form of "be" in the third-person present-tense form "is".
 Interestingly, 3b does *not* sound odd in the same way that 1b does, even though all of the words are the same. 
-The relevant difference seems to be in the grammaticality of their alternatives in the two cases.
-
-The listener hearing 3b could conceivably compare it to the meaning obtained from the ungrammatical sentence in 3a.
-The fact that the lister does *not* do so indicates that syntactic well-formedness restricts the availability of utterances for pragmatic reasoning.
 
 3a. *Lies at the mouth of the Mississippi River New Orleans.
 
 3b. Lying at the mouth of the Mississippi River is (the great city of) New Orleans.
+
+Ido and I suggest that the lack of oddness in 3b (as opposed to 2b) comes from the ungrammaticality of the alternative 3a.
+The listener hearing 3b could conceivably compare it to the meaning obtained from the ungrammatical sentence in 3a.
+The fact that the listener does *not* do so indicates that syntactic well-formedness restricts the availability of utterances for pragmatic reasoning.
 
 - Feldcamp, Z. & Benbaji-Elhadad I. A well-formedness condition on alternative generation. Proceedings of WCCFL 43.
 [Paper on LingBuzz](https://ling.auf.net/lingbuzz/009371)
