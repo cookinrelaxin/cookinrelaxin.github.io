@@ -30,7 +30,7 @@ For instance, if we hear somebody utter sentence 1, we understand them to mean t
    
 What we are doing (unconsciously) is negating every stronger alternative utterance of the form "I have n kids", since, if they had n > 2 kids, they would have said so.
 
-The question that Ido and I ask is to what extent syntactic grammaticality restricts such pragmatic reasoning over alternative utterances. 
+Ido and I ask whether syntactic grammaticality restricts this kind of pragmatic reasoning over alternative utterances. 
 We argue that it does: an alternative utterance formed from a sentence \[ ...  α ... \] by replacing some item α with some other β is only accessible to pragmatic reasoning if the new sentence is grammatical.
 
 Notice, for instance, that the sentence in 1a sounds fine while the one in 2b is odd. 
