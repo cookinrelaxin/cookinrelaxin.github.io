@@ -111,6 +111,8 @@ Bayesian models have become a powerful tool for understanding how children learn
 
 For the technically-inclined, a handout is attached. I introduce a new bottom-up prior over Minimalist Grammar derivations and prove that it is normalizable. The proof uses bounds on the number of unary-binary tree shapes derived from the theory of Motzkin numbers. To my knowledge, this combinatorial method has not previously been applied to Minimalist Grammars. The resulting probability distribution provides a basis for Bayesian inference over competing grammars.
 
+This work-in-progress aims to provide a missing mathematical foundation for probabilistic models of modern syntactic theory, making it possible to compare competing grammars within a principled Bayesian framework.
+
 [Read the handout (PDF)](/papers/A_bottom_up_prior_over_Minimalist_Grammar_trees-2.pdf)
 
 [Back to home](./)
