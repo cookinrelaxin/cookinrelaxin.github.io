@@ -24,11 +24,11 @@ An earlier version of this paper was presented as a poster at WCCFL 42.
 ## Syntax-Pragmatics interface
 
 We understand the meaning of what someone says by considering what they *could* have said, but *didn't*. 
-For instance, if you hear somebody utter sentence 1, you understand them to mean that they have *exactly* two kids, even though 1 would strictly speaking be true even if the speaker has, say, three kids.
+For instance, if we hear somebody utter sentence 1, we understand them to mean that they have *exactly* two kids, even though 1 would strictly speaking be true even if the speaker has, say, three kids.
 
 1. I have two kids.
    
-What you are doing is implicitly negating every stronger alternative utterance of the form "I have n kids", since, if they had n > 2 kids, they would have said so.
+What we are doing (unconsciously) is negating every stronger alternative utterance of the form "I have n kids", since, if they had n > 2 kids, they would have said so.
 
 The question that Ido and I ask is to what extent syntactic grammaticality restricts such pragmatic reasoning over alternative utterances. 
 We argue that it does: an alternative utterance formed from a sentence \[ ...  α ... \] by replacing some item α with some other β is only accessible to pragmatic reasoning if the new sentence is grammatical.
