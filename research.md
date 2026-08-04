@@ -50,6 +50,7 @@ The listener hearing 3b could conceivably compare it to the meaning obtained fro
 The fact that the lister does *not* do so indicates that syntactic well-formedness restricts the availability of utterances for pragmatic reasoning.
 
 3a. *Lies at the mouth of the Mississippi River New Orleans.
+
 3b. Lying at the mouth of the Mississippi River is (the great city of) New Orleans.
 
 - Feldcamp, Z. & Benbaji-Elhadad I. A well-formedness condition on alternative generation. Proceedings of WCCFL 43.
