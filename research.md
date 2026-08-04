@@ -54,7 +54,7 @@ The listener hearing 3b could conceivably compare it to the meaning correspondin
 The fact that the listener does *not* do so indicates that syntactic well-formedness restricts the availability of utterances for pragmatic reasoning.
 
 This gets at deep questions about the nature of pragmatics. 
-What kinds of objects are alternatives? Are they utterances, as suggested above? Or are they syntactic objects? Or perhaps logical representations, or might they even be concepts?
+What kinds of objects are alternatives? Are they utterances (a form of action)? Or are they syntactic objects? Or perhaps logical representations? Or might they even be concepts?
 If we are correct, then alternatives are syntactic.
 
 - Feldcamp, Z. & Benbaji-Elhadad I. A well-formedness condition on alternative generation. Proceedings of WCCFL 43.
