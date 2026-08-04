@@ -86,7 +86,7 @@ If we are correct, then alternatives are syntactic.
 - Feldcamp, Z. & Benbaji-Elhadad I. A well-formedness condition on alternative generation. Proceedings of WCCFL 43.
 [Paper on LingBuzz](https://ling.auf.net/lingbuzz/009371)
 
-## Fragment Subjects
+## Fragment Subjects (WIP)
 
 This project develops an analysis of fragment subjects involving nominalized verbal structures, movement, and ellipsis.
 
