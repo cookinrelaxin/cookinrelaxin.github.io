@@ -24,28 +24,33 @@ An earlier version of this paper was presented as a poster at WCCFL 42.
 ## Syntax-Pragmatics interface
 
 We understand the meaning of a person's utterance in part by realizing what they *could* have said, but *didn't*. 
-For instance, if you meet somebody and they say "I have two kids", you understand this to mean that they have two kids and no more than two kids, even though their original sentence would be true even if they have, say, three kids.
+For instance, if you hear somebody utter sentence 1, you understand them to mean that they have *exactly* two kids, even though 1 would strictly speaking be true even if the speaker has, say, three kids.
+
+1. I have two kids.
+   
 What you are doing is implicitly negating every stronger alternative utterance of the form "I have n kids", since, if they had n > 2 kids, they would have said so.
-Earlier work has argued that contents of the lexicon restricts such pragmatic reasoning over alternative utterances.
-The question that Ido and I ask is to what extent syntactic grammaticality does the same. We argue that it does: an alternative utterance formed from a sentence \[ ...  α ... \] by replacing some item α with some other β is only accessible to pragmatic reasoning if the new sentence is grammatical.
-Our argument is based on contrasts like that between examples 1 and 2, below.
-The sentence in 1a sounds fine while that in 1b is odd. The latter sentence seems to suggest that the position of NOLA might move at some point, contrary to our knowledge of the world.
-The pair in 2 involves an "inverted" word-order, in which the predicate comes first and the subject comes last. 
-An independent fact about the syntax of such constructions is that inversion requires a form of "be"; sentence 2a is then ungrammatical.
-In contrast, 2b has a form of "be" in the third-person present-tense form "is", and the sentence is grammatical. 
-Interestingly, 2b does *not* sound odd in the same way that 1b does, even though all of the words are the same. 
+
+The question that Ido and I ask is to what extent syntactic grammaticality restricts such pragmatic reasoning over alternative utterances. 
+We argue that it does: an alternative utterance formed from a sentence \[ ...  α ... \] by replacing some item α with some other β is only accessible to pragmatic reasoning if the new sentence is grammatical.
+
+Notice, for instance, that the sentence in 1a sounds fine while the one in 2b is odd. 
+Sentence 2b seems to suggest that the position of NOLA tends to move, contrary to our knowledge of the world. 
+Sentence 2b sounds odd because the speaker could have replaced "is lying" with "lies"; the fact that they did not indicates that they do not believe the generic/habitual meaning of the bare present form "lies" to be the case: it is NOT the case that NOLA generally lies at the mouth of the Mississippi.
+
+2a. New Orleans lies at the mouth of the Mississippi River.
+
+2b. #New Orleans is lying at the mouth of the Mississippi River.
+
+Next consider the pair in 3, which involves an "inverted" word-order, in which the predicate comes first and the subject comes last. 
+It is an independent syntactic fact that inversion requires a form of "be". Sentence 3a is then ungrammatical, but 3b is grammatical, because it has a form of "be" in the third-person present-tense form "is".
+Interestingly, 3b does *not* sound odd in the same way that 1b does, even though all of the words are the same. 
 The relevant difference seems to be in the grammaticality of their alternatives in the two cases.
-Sentence 1b sounds odd because the speaker could have replaced "is lying" with "lies"; the fact that they did not indicates that they do not believe the generic/habitual meaning of the bare present form "lies" to be the case: it is NOT the case that NOLA generally lies at the mouth of the Mississippi.
-This same pragmatic reasoning over alternatives is conceivably possible in the case of 2, as well. 
-The listener hearing 2b could compare it to the meaning obtained from the ungrammatical sentence in 2a.
+
+The listener hearing 3b could conceivably compare it to the meaning obtained from the ungrammatical sentence in 3a.
 The fact that the lister does *not* do so indicates that syntactic well-formedness restricts the availability of utterances for pragmatic reasoning.
 
-1a. New Orleans lies at the mouth of the Mississippi River.
-
-1b. #New Orleans is lying at the mouth of the Mississippi River.
-
-2a. *Lies at the mouth of the Mississippi River New Orleans.
-2b. Lying at the mouth of the Mississippi River is (the great city of) New Orleans.
+3a. *Lies at the mouth of the Mississippi River New Orleans.
+3b. Lying at the mouth of the Mississippi River is (the great city of) New Orleans.
 
 - Feldcamp, Z. & Benbaji-Elhadad I. A well-formedness condition on alternative generation. Proceedings of WCCFL 43.
 [Paper on LingBuzz](https://ling.auf.net/lingbuzz/009371)
