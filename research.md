@@ -7,8 +7,8 @@ title: Research
 
 ## What gets to move?
 
-The subject of a transitive verb in the active voice, as in 1a, typically denotes the do-er or "Agent" of the activity described by the verb. 
-When a verb is made passive, another phrase becomes the subject. In 1b we see that the previous object, denoting the thing placed, "moves" to the subject position.
+The subject of a transitive verb in the active voice, as in 1a, typically denotes the doer or "Agent" of the activity described by the verb. 
+When a verb is made passive, another phrase becomes the subject. In 1b we see that the direct object denoting the thing placed "moves" to the subject position.
 Interestingly, a prepositional phrase (PP) may become the subject, as shown in 1c; this latter construction is called "Locative Inversion".
 
     1a. Mark placed a bowl of pasta on the table.
@@ -17,10 +17,8 @@ Interestingly, a prepositional phrase (PP) may become the subject, as shown in 1
 
 The apparent optionality in what becomes the subject when the verb passive raises several deep questions about syntax. For instance, is syntactic movement deterministic? 
 That is, if more than one possible mover exists, is there a rule or procedure that determines which gets to move?
-A prominent hypothesis says yes: whichever phrase is structurally *higher* within the original verb phrase must move to the subject position.
-This *could* explain the optionality between 1b and 1c, if there is optionality in whether the object or the PP is structurally higher within the verb phrase.
 
-Contrasts like that in 2 suggest that something else is going on. 
+Contrasts like that in 2 suggest that the position of the object is critical in allowing the PP to move. 
 We see in 2a that the object may ordinarily precede preposition-like verb "particles" like *down*. 
 Interestingly, when Locative Inversion occurs, the object must *follow* the particle—compare 2c with 2c'.
 
@@ -29,19 +27,18 @@ Interestingly, when Locative Inversion occurs, the object must *follow* the part
     2c. *On the table was put a bowl of pasta down.
     2c'. On the table was put down a bowl of pasta.
 
-The paradigm in 3 shows that the object must occur at the right edge of the sentence even when 
-
-    3a. Professor Kunen proved the Twin Prime Conjecture false in the lecture.
-    3b. The Twin Prime Conjecture was proved false in the lecture.
-    3c. *In the lecture was proved the Twin Prime Conjecture false.
-    3c. ?In the lecture was proved false the Twin Prime Conjecture.
-
 My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. 
 A central question is whether the structural height of different potential movers to a given landing site determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. 
 In Feldcamp (2026), I argue that  the latter hypothesis is closer to the truth. 
 The crucial data comes from locative inversion configurations in which the structurally higher of two potential movers is to the right of the structurally lower of the two. 
-What I find is that the phrase on the right cannot move unless the phrase on the left first moves to the right of it. 
-I develop and argue for a theory of locality that explains this generalization. 
+
+The paradigm in 3 is parallel to that in 2, but the PP starts out as a modifier of the verb "prove", higher than the object noun phrase in the embedded clause. Nonetheless, the NP must be pronounced at the right edge of the sentence, if PP is to move. What we find is that the phrase on the right cannot move unless the phrase on the left first moves to the right of it. 
+I develop and argue for a theory of locality that explains this generalization.
+
+    3a. Professor Kunen proved two well-known conjectures false in the lecture.
+    3b. Two well-known conjectures were proved false in the lecture.
+    3c. *In the lecture was proved two well-known conjectures false.
+    3c. In the lecture were proved false two well-known conjectures.
 
 - Feldcamp, Z. (2026). Precedence-sensitive locality in English locative inversion. Submitted.
   [Paper on LingBuzz](https://lingbuzz.net/lingbuzz/010192)
