@@ -88,9 +88,35 @@ If we are correct, then alternatives are syntactic.
 - Feldcamp, Z. & Benbaji-Elhadad I. A well-formedness condition on alternative generation. Proceedings of WCCFL 43.
 [Paper on LingBuzz](https://ling.auf.net/lingbuzz/009371)
 
-## Fragment Subjects (WIP)
+## How do we understand incomplete sentences?
 
-This project develops an analysis of fragment subjects involving nominalized verbal structures, movement, and ellipsis.
+Everyday conversation is full of expressions that leave most of a sentence unspoken.
+For example, if someone asks the sentence in example 1, another person can naturally reply with the sentence in 2.
+
+        1. Where should we put the pie?
+        2. On the table.
+        
+Even though the words “we should put the pie” are never spoken in 2, everyone understands them. 
+A prominent hypothesis holds that such replies involve unpronounced syntactic structure, which allows us to recover the meaning of the elliptical expression.
+My research investigates what these missing pieces tell us about the hidden structure of language.
+My project on what I call "fragment subjects" investigates the syntactic structure of responses like 3.
+This sentence is puzzling if we only look at the pronounced words, because it is not clear how a location like the top of a table can be a good idea.
+Instead, 3 seems to have the same meaning as 4, which involves a clausal subject.
+This suggests that the fragment subject in 3 involves unpronounced clausal structure.
+
+        3. On the table would be a good idea.
+        4. For us to put the pie on the table would be a good idea.
+
+Although intuitive, I show that a simple clausal-reduction approach to fragment subjects doesn't work. 
+For example, clausal subjects can be pronounced at the right edge of a sentence, as in 6, where the subject position is replaced by expletive "it".
+This same maneuver does not work with fragment subjects, as in 5.
+
+        5. *Would it be a good idea on the table?
+        6. Would it be a good idea for us to put the pie on the table?
+
+I suggest fragment expressions are not all built in the same way: some contain much more unspoken structure than others. 
+By studying subtle patterns in English and Greek, I show that speakers mentally reconstruct different amounts of omitted material depending on the context. 
+These findings help us better understand how the human mind represents sentences that are only partially spoken.
 
 ## Linkers and the syntax of modification
 
