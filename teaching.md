@@ -14,24 +14,28 @@ I encourage students to engage directly with linguistic data, formulate and test
 
 #### 24.902 Language and Its Structure II: Syntax
 *Teaching Assistant*
+
 Spring 2026
 
 Led recitation sections, held weekly office hours, graded assignments and exams, and helped students develop formal analyses of syntactic phenomena.
 
-24.902 Language and Its Structure II: Syntax
-Teaching Assistant
+#### 24.902 Language and Its Structure II: Syntax
+*Teaching Assistant*
+
 Fall 2024
 
 Led recitations, supported students during office hours, and graded problem sets and examinations covering the fundamentals of syntactic theory.
 
 24.952 Advanced Syntax
-Teaching Assistant
+*Teaching Assistant*
+
 Spring 2024
 
 Assisted with a graduate-level course in syntactic theory by grading assignments, holding office hours, and providing feedback on advanced analytical work.
 
 24.900 Introduction to Linguistics
-Teaching Assistant
+*Teaching Assistant*
+
 Fall 2023
 
 Led discussion sections, graded coursework, and helped students apply concepts from phonetics, phonology, morphology, syntax, and semantics to empirical data.
@@ -39,7 +43,8 @@ Led discussion sections, graded coursework, and helped students apply concepts f
 ### University of Toronto
 
 LIN200 Introduction to Language
-Teaching Assistant
+*Teaching Assistant*
+
 Fall 2021
 
 Led tutorials, held office hours, and evaluated assignments in an introductory survey of linguistics.
@@ -47,25 +52,29 @@ Led tutorials, held office hours, and evaluated assignments in an introductory s
 ### University of Arizona
 
 CLAS 160B1 Meet the Ancients
-Teaching Assistant
+*Teaching Assistant*
+
 Fall 2020
 
 Facilitated discussion sections, graded written work, and supported students in a large lecture course introducing the civilizations of ancient Greece and Rome.
 
 Latin 202 Intermediate Latin II
-Teaching Assistant (Instructor of Record)
+*Teaching Assistant (Instructor of Record)*
+
 Spring 2020
 
 Served as the primary instructor for an undergraduate intermediate Latin course, preparing lectures, leading class meetings, writing and grading assessments, and assigning final grades.
 
 CLAS 160B1 Meet the Ancients
-Teaching Assistant
+*Teaching Assistant*
+
 Spring 2020
 
 Led discussion sections and graded written assignments for an introductory classics course.
 
 Latin 101 Introductory Latin I
-Teaching Assistant (Instructor of Record)
+*Teaching Assistant (Instructor of Record)*
+
 Fall 2019
 
 Served as the primary instructor for an introductory Latin course, designing lesson plans, teaching daily classes, assessing student work, and mentoring students as they developed reading proficiency.
