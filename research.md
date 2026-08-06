@@ -100,6 +100,7 @@ For example, if someone asks the sentence in example 1, another person can natur
 Even though the words “we should put the pie” are never spoken in 2, everyone understands them. 
 A prominent hypothesis holds that such replies involve unpronounced syntactic structure, which allows us to recover the meaning of the elliptical expression.
 My research investigates what these missing pieces tell us about the hidden structure of language.
+
 My project on what I call "fragment subjects" investigates the syntactic structure of responses like 3.
 This sentence is puzzling if we only look at the pronounced words, because it is not clear how a location like the top of a table can be a good idea.
 Instead, 3 seems to have the same meaning as 4, which involves a clausal subject.
