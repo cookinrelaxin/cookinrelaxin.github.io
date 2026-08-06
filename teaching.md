@@ -53,3 +53,17 @@ In addition to serving as a teaching assistant at MIT, the University of Toronto
 #### Latin 101 Introductory Latin I
 *Teaching Assistant (Instructor of Record) · Fall 2019*
 - Served as the primary instructor for an introductory Latin course, designing lesson plans, teaching daily classes, assessing student work, and mentoring students as they developed reading proficiency.
+
+## Courses Prepared to Teach
+
+- Introduction to Linguistics
+
+- Syntax
+
+- Semantics
+
+- Morphology
+
+- Latin
+
+- Ancient Greek
