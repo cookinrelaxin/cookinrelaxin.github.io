@@ -42,10 +42,10 @@ The crucial data comes from locative inversion configurations in which the struc
 The paradigm in 3 is parallel to that in 2, but the PP starts out as a modifier of the verb "prove", higher than the object noun phrase in the embedded clause. Nonetheless, the NP must be pronounced at the right edge of the sentence, if PP is to move. What we find is that the phrase on the right cannot move unless the phrase on the left first moves to the right of it. 
 I develop and argue for a theory of locality that explains this generalization.
 
-    3a. Professor Kunen proved two well-known conjectures false in the lecture.
-    3b. Two well-known conjectures were proved false in the lecture.
-    3c. *In the lecture were proved two well-known conjectures false.
-    3c. In the lecture were proved false two well-known conjectures.
+    3a. Professor Zhang proved the Twin Prime Conjecture false in the lecture.
+    3b. The Twin Prime Conjecture was proved false in the lecture.
+    3c. *In the lecture was proved the Twin Prime Conjecture false.
+    3c. In the lecture was proved false—the world-famous Twin Prime Conjecture, which has baffled generations of mathematicians.
 
 - Feldcamp, Z. (2026). Precedence-sensitive locality in English locative inversion. Submitted.
   [Paper on LingBuzz](https://lingbuzz.net/lingbuzz/010192)
