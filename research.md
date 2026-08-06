@@ -5,7 +5,12 @@ title: Research
 
 # Research
 
-## Research overview (TODO)
+## Research overview
+
+We effortlessly understand sentences that are incomplete, ambiguous, or arranged in unexpected ways. 
+My research investigates the hidden grammatical representations that make this possible. 
+Using evidence from English and other languages, I develop formal models of syntax that explain how speakers recover omitted information, interpret unusual sentence structures, and construct meaning from remarkably little linguistic input. 
+My broader goal is to better understand the computational principles that underlie the human language faculty.
 
 ## What gets to move?
 
