@@ -13,9 +13,7 @@ I encourage students to engage directly with linguistic data, formulate and test
 ### Massachusetts Institute of Technology
 
 #### 24.902 Language and Its Structure II: Syntax
-
 *Teaching Assistant*
-
 Spring 2026
 
 Led recitation sections, held weekly office hours, graded assignments and exams, and helped students develop formal analyses of syntactic phenomena.
