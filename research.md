@@ -95,6 +95,7 @@ For example, if someone asks the sentence in example 1, another person can natur
 
         1. Where should we put the pie?
         2. On the table.
+        ≈ We should put the pie on the table.
         
 Even though the words “we should put the pie” are never spoken in 2, everyone understands them. 
 A prominent hypothesis holds that such replies involve unpronounced syntactic structure, which allows us to recover the meaning of the elliptical expression.
