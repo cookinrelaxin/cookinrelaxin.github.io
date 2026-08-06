@@ -8,7 +8,7 @@ I encourage students to engage directly with linguistic data, formulate and test
 
 In addition to serving as a teaching assistant at MIT, the University of Toronto, and the University of Arizona, I have served as Instructor of Record for undergraduate Latin courses at the University of Arizona.
 
-⸻
+---
 
 ## Teaching Experience
 
