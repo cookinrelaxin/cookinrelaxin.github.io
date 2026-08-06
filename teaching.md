@@ -4,7 +4,7 @@
 
 I aim to make formal linguistics accessible without sacrificing rigor. My goal is for students to understand not only how a formal analysis works, but also why it is worth pursuing. Rather than treating formalism as an end in itself, I emphasize how precise analyses can reveal unexpected patterns in natural language and help answer broader questions about the human language faculty.
 
-I encourage students to engage directly with linguistic data, formulate and test hypotheses, and develop confidence in constructing and evaluating arguments. In the classroom, I strive to create an environment where students feel comfortable asking questions, exploring alternative analyses, and refining their ideas through discussion. Whether teaching introductory courses or advanced syntax, I hope to equip students with both the technical tools and the intellectual curiosity needed to investigate language scientifically.
+I encourage students to engage directly with linguistic data, formulate and test hypotheses, and develop confidence in constructing precise arguments and evaluating competing analyses. In the classroom, I strive to create an environment where students feel comfortable asking questions, exploring alternative analyses, and refining their ideas through discussion. Whether teaching introductory courses or advanced syntax, I hope to equip students with both the technical tools and the intellectual curiosity needed to investigate language scientifically.
 
 In addition to serving as a teaching assistant at MIT, the University of Toronto, and the University of Arizona, I have served as Instructor of Record for undergraduate Latin courses at the University of Arizona.
 
