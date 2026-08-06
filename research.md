@@ -12,48 +12,6 @@ My research investigates the hidden grammatical representations that make this p
 Using evidence from English and other languages, I develop formal models of syntax that explain how speakers recover omitted information, interpret unusual sentence structures, and construct meaning from remarkably little linguistic input. 
 My broader goal is to better understand the computational principles that underlie the human language faculty.
 
-## What gets to move?
-
-The subject of a transitive verb in the active voice, as in 1a, typically denotes the doer or "Agent" of the activity described by the verb. 
-When a verb is made passive, another phrase becomes the subject. In 1b we see that the direct object denoting the thing placed "moves" to the subject position.
-Interestingly, a prepositional phrase (PP) may become the subject, as shown in 1c; this latter construction is called "Locative Inversion".
-
-    1a. Mark placed a bowl of pasta on the table.
-    1b. A bowl of pasta was placed on the table.
-    1c. On the table was placed a bowl of pasta.
-
-The apparent optionality in what becomes the subject when the verb passive raises several deep questions about syntax. For instance, is syntactic movement deterministic? 
-That is, if more than one possible mover exists, is there a rule or procedure that determines which gets to move?
-
-Contrasts like that in 2 suggest that the position of the object is critical in allowing the PP to move. 
-We see in 2a that the object may ordinarily precede preposition-like verb "particles" like *down*. 
-Interestingly, when Locative Inversion occurs, the object must *follow* the particle—compare 2c with 2c'.
-
-    2a. Mark put a bowl of pasta down on the table.
-    2b. A bowl of pasta was put down on the table.
-    2c. *On the table was put a bowl of pasta down.
-    2c'. On the table was put down a bowl of pasta.
-
-My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. 
-A central question is whether the structural height of different potential movers determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. 
-In Feldcamp (2026), I argue that the latter hypothesis is closer to the truth. 
-The crucial data comes from locative inversion configurations in which the structurally higher of two potential movers is to the right of the structurally lower of the two. 
-
-The paradigm in 3 is parallel to that in 2, but the PP starts out as a modifier of the verb "prove", higher than the object noun phrase in the embedded clause. Nonetheless, the NP must be pronounced at the right edge of the sentence, if PP is to move. What we find is that the phrase on the right cannot move unless the phrase on the left first moves to the right of it. 
-I develop and argue for a theory of locality that explains this generalization.
-
-    3a. Professor Zhang proved the Twin Prime Conjecture false in the lecture.
-    3b. The Twin Prime Conjecture was proved false in the lecture.
-    3c. *In the lecture was proved the Twin Prime Conjecture false.
-    3c. In the lecture was proved false—the world-famous Twin Prime Conjecture, which has baffled generations of mathematicians.
-
-- Feldcamp, Z. (2026). Precedence-sensitive locality in English locative inversion. Submitted.
-  [Paper on LingBuzz](https://lingbuzz.net/lingbuzz/010192)
-
-An earlier version of this paper was presented as a poster at WCCFL 42. 
-- Feldcamp, Z. (2025). Precedence-Sensitive A-Movement in Locative Inversion. Proceedings of the 42nd West Coast Conference on Formal Linguistics, ed. Shweta Akolkar et al., 130-137. Somerville, MA: Cascadilla Proceedings Project.
-  [Paper on LingBuzz](https://ling.auf.net/lingbuzz/008359)
-  
 ## How grammar shapes what we imply
 
 We understand the meaning of what someone says by considering what they *could* have said, but *didn't*. 
@@ -123,6 +81,48 @@ This same maneuver does not work with fragment subjects, as in 5.
 I argue that fragment expressions are not all built in the same way. 
 Some omit an entire sentence, while others omit only part of one.
 By studying subtle patterns in English and Greek, I show that speakers mentally reconstruct different amounts of hidden grammatical structure depending on the kind of fragment they hear.
+
+## What gets to move?
+
+The subject of a transitive verb in the active voice, as in 1a, typically denotes the doer or "Agent" of the activity described by the verb. 
+When a verb is made passive, another phrase becomes the subject. In 1b we see that the direct object denoting the thing placed "moves" to the subject position.
+Interestingly, a prepositional phrase (PP) may become the subject, as shown in 1c; this latter construction is called "Locative Inversion".
+
+    1a. Mark placed a bowl of pasta on the table.
+    1b. A bowl of pasta was placed on the table.
+    1c. On the table was placed a bowl of pasta.
+
+The apparent optionality in what becomes the subject when the verb passive raises several deep questions about syntax. For instance, is syntactic movement deterministic? 
+That is, if more than one possible mover exists, is there a rule or procedure that determines which gets to move?
+
+Contrasts like that in 2 suggest that the position of the object is critical in allowing the PP to move. 
+We see in 2a that the object may ordinarily precede preposition-like verb "particles" like *down*. 
+Interestingly, when Locative Inversion occurs, the object must *follow* the particle—compare 2c with 2c'.
+
+    2a. Mark put a bowl of pasta down on the table.
+    2b. A bowl of pasta was put down on the table.
+    2c. *On the table was put a bowl of pasta down.
+    2c'. On the table was put down a bowl of pasta.
+
+My research on locative inversion investigates the relationship between syntactic structure, linear order, and locality. 
+A central question is whether the structural height of different potential movers determines which phrase ends up moving, or whether it is simply the leftmost eligible phrase that moves. 
+In Feldcamp (2026), I argue that the latter hypothesis is closer to the truth. 
+The crucial data comes from locative inversion configurations in which the structurally higher of two potential movers is to the right of the structurally lower of the two. 
+
+The paradigm in 3 is parallel to that in 2, but the PP starts out as a modifier of the verb "prove", higher than the object noun phrase in the embedded clause. Nonetheless, the NP must be pronounced at the right edge of the sentence, if PP is to move. What we find is that the phrase on the right cannot move unless the phrase on the left first moves to the right of it. 
+I develop and argue for a theory of locality that explains this generalization.
+
+    3a. Professor Zhang proved the Twin Prime Conjecture false in the lecture.
+    3b. The Twin Prime Conjecture was proved false in the lecture.
+    3c. *In the lecture was proved the Twin Prime Conjecture false.
+    3c. In the lecture was proved false—the world-famous Twin Prime Conjecture, which has baffled generations of mathematicians.
+
+- Feldcamp, Z. (2026). Precedence-sensitive locality in English locative inversion. Submitted.
+  [Paper on LingBuzz](https://lingbuzz.net/lingbuzz/010192)
+
+An earlier version of this paper was presented as a poster at WCCFL 42. 
+- Feldcamp, Z. (2025). Precedence-Sensitive A-Movement in Locative Inversion. Proceedings of the 42nd West Coast Conference on Formal Linguistics, ed. Shweta Akolkar et al., 130-137. Somerville, MA: Cascadilla Proceedings Project.
+  [Paper on LingBuzz](https://ling.auf.net/lingbuzz/008359)
 
 ## Linkers and the syntax of modification
 
