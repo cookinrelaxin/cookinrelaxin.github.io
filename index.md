@@ -12,4 +12,4 @@ Massachusetts Institute of Technology
 
 I am a syntactician working on locality, movement, linearization, and inversion phenomena. My current research focuses on locative inversion and related constructions.
 
-[CV](Feldcamp_CV-2.pdf) · [Research](research.md) · [Teaching](teaching.md) · [Email me](mailto:feldcamp AT mit DOT edu)
+[CV](/papers/Feldcamp_CV-2.pdf) · [Research](research.md) · [Teaching](teaching.md) · [Email me](mailto:feldcamp AT mit DOT edu)
